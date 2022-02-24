@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mystery of the Gospel unvail'd wherein is plainly shewed and proved, that the man Christ Jesus has honoured all the perfections of God more than Adam and all his posterity could have done, had they continuted in their primitive state of innocency / first preached, and now published by Samuel Pack.</title>
+            <author>Pack, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54347</idno>
+            <idno type="STC">Wing P151</idno>
+            <idno type="STC">ESTC R32208</idno>
+            <idno type="EEBO-CITATION">12356687</idno>
+            <idno type="OCLC">ocm 12356687</idno>
+            <idno type="VID">60151</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60151)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1024:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mystery of the Gospel unvail'd wherein is plainly shewed and proved, that the man Christ Jesus has honoured all the perfections of God more than Adam and all his posterity could have done, had they continuted in their primitive state of innocency / first preached, and now published by Samuel Pack.</title>
+                  <author>Pack, Samuel.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCI [1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Divinity.</term>
+               <term>Jesus Christ --  Sinlessness.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60151:1" rendition="simple:additions"/>
+            <pb facs="tcp:60151:1" rendition="simple:additions"/>
+            <p>THE MYSTERY OF THE Goſpel Unvail'd:</p>
+            <p>Wherein is plainly ſhewed and proved, That the Man CHRIST JESUS has honoured all the Perfections of GOD more than <hi>Adam</hi> and all his Poſterity could have done, had they conti<g ref="char:EOLhyphen"/>nued in their Primitive State of Innocency.</p>
+            <p>Firſt Preached, and now Publiſhed BY <hi>SAM<g ref="char:V">Ʋ</g>EL PACK.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, in the Year MDCXCI.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:60151:2"/>
+            <pb facs="tcp:60151:2"/>
+            <head>TO His much Honoured and Eſteemed Good Friends Captain <hi>William Thompſon,</hi> Eſq; AND TO Mrs <hi>Katharina</hi> His Vertuous Conſort, <hi>Samuel Pack</hi> wiſheth all Happineſs in this World, and Eternal Felicity in the World to come.</head>
+            <opener>
+               <salute>My Honoured Friends,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have been ſtrongly induced by theſe following Reaſons to preſent you with this unpoliſhed Diſcourſe.</p>
+            <p>Firſt, To ſhew my thankfulneſs unto God for engaging of your Hearts, that have the great things of this World, to look after the great and good things of the World to come; for though not many mighty, and not many noble are called, yet it is a mercy that God hath made ſome great ones good ones, for the encourage<g ref="char:EOLhyphen"/>ment of thoſe that move in a lower Sphear.</p>
+            <p>A Second Reaſon that induced me to this boldneſs in prefixing your Names to this Work, was to give ſome Demonſtration of my thankfulneſs to your ſelves for your kindneſs towards me when I was with you under much bodily weakneſs; and if a Heathen could ſay, That we need charge a Man with no greater Crime than In<g ref="char:EOLhyphen"/>gratitude, it would look with an evil aſpect in a Chri<g ref="char:EOLhyphen"/>ſtian
+<pb facs="tcp:60151:3"/>eſpecially a Miniſter, to be guilty thereof: For as Ingratitude towards God was the ſin of the firſt <hi>Adam,</hi> ſo Ingratitude towards Man is a fruit of the Old <hi>Adam.</hi>
+            </p>
+            <p>A Third Reaſon why I preſent you with this Diſ<g ref="char:EOLhyphen"/>courſe is, becauſe of that favourable acceptance that it found when you had it in your Ears, which encourages me to hope, that it will find the ſame acceptance with you when you have it in your Eyes.</p>
+            <p>A Fourth Reaſon why I have prefixed your Names to this Work is, becauſe I would encourage others to imitate you, in owning the ways of God, as you did in the worſt of times, and in the greateſt of Dangers, when none could ſo depart from Iniquity as to follow the Lord fully, but they made themſelves a Prey to Diabolical Informers.</p>
+            <p>The Laſt Reaſon I ſhall give of this Attempt, in preſenting you with this Demonſtration of my thank<g ref="char:EOLhyphen"/>fulneſs to God and your ſelves, is, becauſe I have no better thing to preſent you with; for the truth is, the Subject is glorious, and that which is rarely treated on; for had I ſeen this Work managed by abler Pens, this Work had never come abroad to the World.</p>
+            <p>But now it is publiſhed, it is the earneſt deſire of my Soul, that the Lord will be pleaſed to make it ſervice<g ref="char:EOLhyphen"/>able to your ſelves, and to all that will be pleaſed to give it the Reading.</p>
+            <p>Now the Bleſſing of the Great God, Father, Son and Spirit, abide in and upon your Souls and Bodies, with your Off-Spring; which is and ſhall be the hearty Prayers of him who is</p>
+            <closer>
+               <signed>Your Servant for Jeſus ſake, SAMUEL PACK.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:60151:3" rendition="simple:additions"/>
+            <head>THE MYSTERY OF THE Goſpel Unvail'd, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ROMANS IX. V.</hi>
+                  </bibl>
+                  <p>Whoſe are the Fathers, and of whom as concerning the fleſh Chriſt came, who is over all, God bleſſed for ever. Amen.</p>
+               </q>
+            </epigraph>
+            <p>IN the ſecond and third Verſes of this Chapter we have the Apoſtle <hi>Paul</hi> giving great Demon<g ref="char:EOLhyphen"/>ſtrations of the ſtrength of his Affection to his Countrymen the Jews, partly by his ſorrow of Heart for them, and partly by his willingneſs to be accurſed from Chriſt for their ſakes. And in the next Verſe he gives us a Reaſon of his love to<g ref="char:EOLhyphen"/>wards them, which was thoſe Spiritual priviledges with which God had been pleaſed to dignifie them above all other Nations; and in the words that I have read, he is climbing the higheſt Pinacle of their honour, which was, That according to the Fleſh Chriſt came of them, which was as great an honour
+<pb facs="tcp:60151:4"/>as could be conferred upon a Nation; which the Apoſtle doth illuſtrate by an aggregation or heaping up of words; Firſt, aſſuring of us that Chriſt is over all; that is, over all Creatures, which is his right; becauſe he was before all things, and by him all things conſiſt;<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>l. 1.17.</note> and all things were made by him, and without him was not any thing made that was made;<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hn 1.3.</note> and as Chriſt is God over all, ſo he is a bleſſed God,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>im. 6.15.</note> and the Fountain of all belſſedneſs; which bleſſedneſs was eſſential to him, as God over all. And Chriſt is not only a bleſſed God over all, but he is eternally a bleſſed God over all; for ſo long as Chriſt remains God over all, which will be to all eternity, ſo long he will remain an eternal<g ref="char:EOLhyphen"/>ly bleſſed God, that he may be an eternal bleſſing to his Saints. And, Laſtly, the Apoſtle confirms all with an <hi>Amen,</hi> which comes of that great Hebrew Verb <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: he nouriſhed faithfully, becauſe that Chriſt, the <hi>Amen,</hi> the faithful and true Witneſs, does nouriſh the Faith and Hope of his Saints, by an exact performance of the Promiſes which are in him Yea, and in him Amen</p>
+            <p>Having thus opened the words, I ſhall preſent you with the Doctrin that does naturally ariſe from them; which is, That <hi>Chriſt is over all, God bleſ<g ref="char:EOLhyphen"/>ſed for ever.</hi>
+               <note place="margin">ct.</note> And for as much as I hope there are no Socinians here, I ſhall not ſpend that little time and ſtrength I have, to prove the Point, which is the very words of my Text, but give you ſome Reaſons why it was needful that Chriſt, as our Redeemer, ſhould be God over all, belſſed for ever.</p>
+            <p n="1">1. Becauſe that we had ſinned againiſt God over all; for as it was needful that Chriſt ſhould be a
+<pb facs="tcp:60151:4"/>Man, that ſatisfaction might be made in the ſame nature that did offend; ſo it was needful that he ſhould be God over all, that there might be an equality between the Offence and the Satisfaction; that as God over all was ſin'd againſt by Man, ſo God over all might in Man's Nature make Satis<g ref="char:EOLhyphen"/>faction to the Juſtice of God over all.</p>
+            <p n="2">2. Becauſe that in order to the Satisfaction of the Juſtice of God over all, it was of abſolute neceſſity that the Wrath of God over all, ſhould be bore in Man's Nature, which could not be but by him who is God over all. Now for as much as there is more Wrath due to us for the leaſt ſin, than all the Rocks and Mountains in the World are able to bear, it was utterly impoſſible that Chriſt could have bore up under all the Wrath of his Father, which was due to all the Elect for all their ſins, had he not been upheld by the Power of God over all; for though the God-head of Chriſt was as uncapable of ſuffering as the Manhood was to bear the ſuffer<g ref="char:EOLhyphen"/>ings that lay upon it, yet it was the Godhead that did uphold and ſupport the Manhood.</p>
+            <p n="3">3. It was needful that Chriſt ſhould be God over all, that the Godhead might make the ſufferings of the humanity infinitely meritorious, for the Satisfaction of the Juſtice of an infinite God over all; for though I am not of the mind of <hi>Oſiander</hi> and his Followers, that we are juſtified by the im<g ref="char:EOLhyphen"/>putation of the eſſential Righteouſs of Chriſt as God, yet it was the eſſential Righteouſneſs of the Godhead of Chriſt, that did make the Active and Paſſive Obedience of his Manhood, infinitely me<g ref="char:EOLhyphen"/>ritorious, as being in perſonal Union therewith;
+<pb facs="tcp:60151:5"/>for which cauſe the Blood of Chriſt's Humanity is called God's Blood.<note place="margin">Acts. 20.28.</note>
+            </p>
+            <p n="4">4. It was needful that our Redeemer ſhould be God over all, that he might be a ſuitable good to our Souls, which are the very Breath of God over all; and whoſe vaſt deſires are ſuch, that none but God over all can ſatisfie them. The World is emp<g ref="char:EOLhyphen"/>ty of what it promiſes, and enticing with what it has, and therefore a wicked Man's deſires after it are enlarged as Hell, but can find no real ſatisfacti<g ref="char:EOLhyphen"/>on therein, becauſe they are below the excellent na<g ref="char:EOLhyphen"/>ture of his Soul; but when God's <hi>Jehoſaphats</hi> have a great confluence of outward Enjoyments, God comes in the Creatures, and ſo cures them of their emptineſs, and he come with them and cures them of their enticing property; and, between both, he makes them Bleſſings to us, and they yield unto us ſweet ſatisfaction. As the Spirit of the Living God enables us to make a ſanctified uſe of them, to the Glory of God, from whom we do receive them; and beſides, as the Soul of Man is a Spiritual Sub<g ref="char:EOLhyphen"/>ſtance, 'tis only Chriſt who is a Spiritual Good that can be a ſuitable Good unto it; and as the Soul of Man is an immortal Being, ſo Chriſt is a ſuitabl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Good unto it.</p>
+            <p n="5">5. It was needful that our Redeemer ſhould be God over all, that he might exalt our nature which was debaſed by ſinning againſt God over all; for, however, our firſt Parents were honourable Crea<g ref="char:EOLhyphen"/>tures as they came out of God's Hand, having his Image ſtamped on them, yet Man in precious ho<g ref="char:EOLhyphen"/>nour lodged not a Night, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Pſalm</hi> 49.12. but fell the ſame Day upon which he was
+<pb facs="tcp:60151:5"/>created, and by his Fall he made himſelf but little better thanthe Devils, who was made but little lower than the Angels: For in our firſt Creation there was ſuch ſerenity in our Underſtanding, that we knew the greateſt Dimenſions of our Maker's Will, ſo far as was needful for our acknowledg<g ref="char:EOLhyphen"/>ment of his Sovereignty, in our univerſal Obedi<g ref="char:EOLhyphen"/>ence to his revealed Will; and there was ſuch a degree of Sanctity in Man's Will, that it was ready to command that good to be done which the Under<g ref="char:EOLhyphen"/>ſtanding did dictate to be good, and the Affections were ready to embrace that good which the Will commanded, and the ſenſitive Soul, which takes up its Reſidence in the Organical parts of the Body (through which it iſſues forth by ſeveral Acts, and receives in from ſeveral Objects) were ſo ſanctified as to make a Spiritual uſe of whatever was preſent<g ref="char:EOLhyphen"/>ed unto them. But, alas! Man cannot be known by any Deſcription that might have been given of him in his State of Innocency; for now his Under<g ref="char:EOLhyphen"/>ſtanding is clouded with groſs <hi>Egyptian</hi> Darkneſs, and his Will is filled with Stubbornneſs and a Con<g ref="char:EOLhyphen"/>tumacious Spirit againſt the Lord, and his Af<g ref="char:EOLhyphen"/>fections are irregularly ſet upon wrong Objects; ſo that Man cannot be known in his lapſed State by any Deſcription that might have been given of him before his Fall; for which cauſe the Lord was pleaſe to ſay concerning Man, that Man is as one <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from him; that is, one from the Devil, through whoſe Temptation Man fell: for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ever denotes the third Perſon ſingular, and is ſo uſed four times in one Verſe, <hi>Zech.</hi> 10.4. whereas <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> denotes the firſt Perſon plural. Now
+<pb facs="tcp:60151:6"/>foraſmuch as the Maſter-piece of God's Tetreſtrial Workmanſhip had by Sin debaſed it ſelf below the periſhing Beaſt, it was of abſolute neceſſity that his Redeemer ſhould be God over all, to exalt his degraded Nature.</p>
+            <p n="6">6. It was needful, that Man's Redeemer ſhould be God over all, that he might procure for us a new Covenant-right in God over all; for by our Fall we loſt not only our right in the Creature, but that wherein our greateſt loſs did principally conſiſt was, that we loſt our right and propriety in God: now God being a Bleſſing of infinite worth, it was neeful that a Perſon of infinite worth ſhould, by the merits of his Blood, procure it for us.</p>
+            <p n="7">7. It was needful that our Reedeemer ſhould be God over all, becauſe he had ſuch Enemies to con<g ref="char:EOLhyphen"/>quer for us, that none but God over all could con<g ref="char:EOLhyphen"/>quer; for we had the Wrath of God, the Curſe of the Law, and all the powers ofDarkneſs againſt us; all which could never have been conquered but by God over all: And had not theſe Enemies of our Souls been conquered by our Perſons, which could not have been expected, but by a Redeemer in our nature, we had been miſerable for ever; but to the eternal praiſe of God's Grace, he was pleaſed to lay help upon one that was mighty, who led Captivity Captive, by conquering all his and our Enemies in our Nature.</p>
+            <p>Thus having ſhewed why it was needful that our Redeemer ſhould be God over all, I ſhall proceed to the Application.</p>
+            <p n="1">1. It may inform us of that Perſonal Union that is between the Father,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>l. 2.2.</note> Son and Holy Ghoſt;<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>h. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.7.</note> for the
+<pb facs="tcp:60151:6"/>Father is God over all, and the Son is God over all, and the Holy Ghoſt is God over all; and yet there are not three Gods over all, but one God over all, each Perſon in the Godhead having the whole eſſence of the Godhead in himſelf.</p>
+            <p n="2">2. If Chriſt be God over all, then ſee from hence the infinite love of God the Father in giving to us ſuch a Redeemer who is God over all: If <hi>Jacob</hi> could ſay he was unworthy of the leaſt of God's Mer<g ref="char:EOLhyphen"/>cies, how are we obliged to him for Chriſt, who is the greateſt Mercy that he could have beſtowed on us? On which account we may ſay, concerning the Love of the God of Knowledge, as <hi>Job</hi> ſaid con<g ref="char:EOLhyphen"/>cerning the knowledge of the God of Love, That it is as high as Heaven: what can we do? 'tis deeper than Hell. What can we know? the meaſures there<g ref="char:EOLhyphen"/>of are longer than the Earth, and broader than the Sea.</p>
+            <p n="3">3. See the infinite love of Chriſt to ſinners; for if Chriſt had not been God over all, his Death would have ſignified nothing for our comfort; and being God over all,<note place="margin">John 3.16. Gal. 2.20.</note> there could be no compelling of Chriſt to aſſume our nature; but as God the Father did freely give his Son for ſinners, ſo God the Son did as freely give himſelf up unto Death for us.</p>
+            <p n="4">4. If Chriſt be God over all, this may inform us of the Humility of Chriſt, that he was pleaſed to take our Nature into a Perſonal Union with his Godhead, after we had greatly degraded it by ſin. Oh what infinite Humility did Chriſt manifeſt when he took upon him our Nature! that he whom the Heaven of Heavens could not contain, to be circum<g ref="char:EOLhyphen"/>ſcribed in the Womb of a Virgin! that he who
+<pb facs="tcp:60151:7"/>dwells in inacceſſable Light ſhould be contented to be nine Months in utter Darkneſs: Oh the conde<g ref="char:EOLhyphen"/>ſcending Grace of God over all! that he who was from everlaſting ſhould be born in time! That he who roles up the Heavens as a Scrole, ſhould himſelf be wrapped up in Swadling-bands; that he who feeds all Creatures by his Providence, ſhould ſuck the Breaſt of a Woman for his maintenance; that he who bares up the whole Fabrick of Heaven and Earth by his Power, ſhould be carried in the Arms of a Woman; that he who is attened upon by Angels, ſhould be carried up and down by the Devils, <hi>Luke</hi> 4.5, 9. that he who is the Fountain of Joy, ſhould be contented to be a Man of Sor<g ref="char:EOLhyphen"/>rows, <hi>Iſai.</hi> 53.3. that he who is to be the Judge of Quick and Dead, ſhould be adjudged and condemned by a Man of his own making. Oh the infinite Condeſcenſion of Chriſt! that he who chaſtens the Heathen, ſhould be ſcourged by Mortals; that he who is the Bleſſed God, ſhould hang upon a curſed Tree; and that he who is the Fountain of Life, ſhould undergo the ſtroke of Death; that he who hangs the Earth upon nothing ſhould himſelf be hanged between Heaven and Earth. And therefore the Apoſtle preſents us with the Example of Chriſt as a Copy to write after,<note place="margin">Phil. 2.6, 7.</note> and a Preſident to imitate.</p>
+            <p n="5">5. If Chriſt be God over all, this amy inform us of our infinite Obligations to God the Holy Ghoſt for forming the Humanity of Chriſt of the Virgins ſub<g ref="char:EOLhyphen"/>ſtance ſo pure and holy, that God over all did not diſ<g ref="char:EOLhyphen"/>dain to take it into a Perſonal Union with himſelf, and alſo for convincing us of ſn; whereby he emptyed
+<pb facs="tcp:60151:7"/>the Soul of ſinful, worldly and righteous Self, and thereby made room in our Hearts for the Re<g ref="char:EOLhyphen"/>ception of the Bleſſed efforts of the Death, Re<g ref="char:EOLhyphen"/>ſurrection, Aſſenſion and Interceſſion of Jeſus Chriſt.</p>
+            <p n="6">6. If Chriſt be God over all, this may inform us, that all the Perfections of God which have been affronted by Man's ſin, have gained by Man's Nature in the Perſon of Chriſt, becauſe of that Retribution that God over all has (in our Na<g ref="char:EOLhyphen"/>ture) made to God Perfections; for which cauſe God is ſaid to have received double for all our ſins, not by our Perſons, but by our Nature in the Peſon of him who is God over all, <hi>Iſai.</hi> 40.2.</p>
+            <p n="1">1. For the Sovereignty of God, which has been prodigiouſly rejected by ſinful Men, whoſe Nature and Practice is ready to utter this wicked Language of <hi>Pharaoh, Who is the Lord that I ſhould obey him? VVe will not have this man to reign over us.</hi> This gloriour Perfection of God,<note place="margin">Exod. 5.2. Luke 19.14.</note> has gained more by our Nature in the Perſon of <hi>Chriſt</hi> than it has loſt by us; for <hi>Chriſt</hi> who is God over all has owned and acknowledged the Sover<g ref="char:EOLhyphen"/>eignty of God by praying to him, and by obeying of him even unto Death; ſo that when the Law is ready to cry to Juſtice for Vengeance againſt a Believer becauſe of his ſin, ſays Juſtice, 'tis true, Law, what thou ſaieſt concerning the ſinfulneſs of thoſe Believeing, Re<g ref="char:EOLhyphen"/>penting, and Returning Sinners; but yet I am ſo far from complying with thee to Damn them, that I am reſolved to ſtand by them,
+<pb n="10" facs="tcp:60151:8"/>and to juſtifie them,<note place="margin">Iſai. 40.2.</note> for I have received dou<g ref="char:EOLhyphen"/>ble at their hands, for their rejection of my Sovereignty; for their nature in Perſonal Union with God over all, has by all its Obedience unto Death honoured my Sovereignty more than <hi>Adam</hi> and all his Poſterity could have done, had they continued in their Innocency; for then my Sovereignty had been honoured only by Creatures, but now it is honoured by God over all in Man's Nature.</p>
+            <p n="2">2. As the Sovereignty of God has been more honoured by <hi>Chriſt</hi> than it could have been by <hi>Adam</hi> and all his Poſterity, had they continued in their Innocency; ſo likewiſe the Holineſs or God wherein conſiſted God's Image, which Man defaced by his Fall, has got more ground in our Nature, as it is in Perſonal Union with God over all, than it loſt by the Fall of <hi>Adam;</hi> for if <hi>Adam</hi> and all his Poſterity had continu<g ref="char:EOLhyphen"/>ed in their Holy State, there would not have been ſo much Holineſs in all their Perſons, as is in our Nature in the Perſon of <hi>Chriſt,</hi> into whoſe Lips Grace was pouered, <hi>Pſal.</hi> 45.3. and who received not the Spirit by mea<g ref="char:EOLhyphen"/>ſure, <hi>John</hi> 3.24. So that when the Law is crying to Juſtice for Vengeance againſt True Believers for the loſs of their Holineſs, ſays Juſtice, I cannot Damn this Believer, though their Perſons have loſt their Holineſs; be<g ref="char:EOLhyphen"/>cauſe their Nature, in Perſonal Union with God over all, has more Holineſs in it, than ever they loſt; And beſide, ſays Juſtice, as there is the Perfection of Holineſs in their
+<pb n="11" facs="tcp:60151:8"/>Political Head and repreſentative God over all, ſo I have likewiſe by the Almighty and irre<g ref="char:EOLhyphen"/>ſiſtable power of my Spirit implanted my Image of Holineſs in them, as they are by Faith United to God the Fountain of Holineſs, from whom they do derive ſuch Streams of Holineſs which carry them with an Holy Holineſs againſt the Wind and Tide of their corrupt Affections, and Satans Temptations, and the Worlds Allurements, and the Frowns and Flatteries of wicked Relations; in which reſpect the Holineſs of true Believers is of a higher Nature than the Holineſs of the An<g ref="char:EOLhyphen"/>gels; foraſmuch as they in their Acts of Holineſs meet with none of that Oppoſition as the Saints do while they are here in this World, and though all this will not juſtifie them, becauſe of <hi>Adam</hi>'s ſin imputed to them, and that ſin which is implanted in them, yet foraſmuch as God over all has in their Nature not only purchaſed Juſtifying Grace for them, but alſo San<g ref="char:EOLhyphen"/>ctifying Grace in them; I am reſolved to glorifie them, notwithſtanding all that thou, O Law, doſt alledge againſt them; for though they were deeply in my Debt, I have received double at the Hands of their Surety; and it would be an Act of Injuſtice in me, to exact one Debt of two Perſons.</p>
+            <p n="3">3. If <hi>Chriſt</hi> be God over all, this may inform us, that the Mercy of God has been no loſer but a gainer by our Nature in the Per<g ref="char:EOLhyphen"/>ſon of God over all; for the Mercy of God is more diſplay'd in redeeming of us by the
+<pb n="12" facs="tcp:60151:9"/>Death of <hi>Chriſt,</hi> than it would have been by God's keeping of <hi>Adam</hi> and all his Poſterity in their Primitive State of Happineſs: Oh who can take the Dimenſions of that boundleſs Grace and Mercy of God, that was diſplay'd in ſending of his only Son out of his Boſom to undergo his Wrath for ſinners! For though the Godhead of Chriſt was uncapable of ſuffer<g ref="char:EOLhyphen"/>ing, yet he was in Perſonal Union with the Manhood that did ſuffer the intolerable weight of God's, Wrath for ſinners; and no ſooner does the Law cry to Juſtice againſt Believers, for their abuſe of Mercy, but preſently it re<g ref="char:EOLhyphen"/>ceives this or the like anſwer from Juſtice, Though 'tis true, O Law, what thou ſay'ſt concerning this Believer's abuſe of Mercy, yet I am reſolved to ſtand by this Believer, be<g ref="char:EOLhyphen"/>cauſe my Mercy has ſhone forth ſo abundant<g ref="char:EOLhyphen"/>ly by their Surety, God over all, in their Nature, that a finite Being is not able to comprehend; for, ſays Juſtice, if there had been but one of <hi>Adam</hi>'s Off-Spring ſaved, my Mercy would have been more diſplay'd thereby, than it would have been in the Salvation of all Mankind, had they continued in their Innoceney; for then God had only extended Mercy only to Loyal Subjects: But for God as an Act of his Grace to ſave ſinners by the Death of his Son, was an extending of Grace to Rebellious <hi>Adam,</hi> and his Rebellious Off-Spring, which is a great Am<g ref="char:EOLhyphen"/>plification thereof.</p>
+            <p n="4">4. As this Doctrin does inform us, That the Sovereignty, Holineſs and Mercy of God are
+<pb n="13" facs="tcp:60151:9"/>no loſers by Believers, with reſpect to their Nature in the Perſon of God over all, ſo like<g ref="char:EOLhyphen"/>wiſe the power of God has been more diſplay'd in the Conception, Death and Reſurrection of <hi>Chriſt,</hi> than it would have been in keeping <hi>Adam</hi> and all his Poſterity in their State of Innocency. Oh what power did the Spirit of God manifeſt in forming the Pure and Spotleſs Humanity of <hi>Chriſt</hi> of the Subſtance of a ſinful Virgin! And how was the Power of God manifeſted, in bearing up of that Spotleſs Humanity, under that Wrath, the thouſand part of which would have ſunk the whole Creation? So that when the Law cries to Juſtice for Vengeance againſt Believers, for contemning of God's Power, by acting in his ſight contrary to his Nature, it receives this or the like anſwer from Juſtice; Though it is true, O Law, what thou ſayſt, That Man has great<g ref="char:EOLhyphen"/>ly contemned God's Power, yet I am reſolved notwithſtanding to ſtand by this Believer, be<g ref="char:EOLhyphen"/>cauſe my power ſhone forth more in the Concep<g ref="char:EOLhyphen"/>tion, Death and Reſurrection of their Surety, who is God over all, than it would have been in preſerving Man in Innocency: And beſides, ſays Juſtice to the Law, my power has been as much diſplay'd in infuſing the habit of Grace into the Hearts of Believers,<note place="margin">Eph. 1.19. 1. Pet. 1.5.</note> and in keeping up that habit by conſtant ſupplies of perſevering Grace, as in making of Heaven and Earth.</p>
+            <p n="5">5. As the Power of God has been more magni<g ref="char:EOLhyphen"/>fied by God over all in Man's Nature, than it would have been in the perſeverance of all Man<g ref="char:EOLhyphen"/>kind, ſo has his Wiſdom likewiſe; for as Man
+<pb n="14" facs="tcp:60151:10"/>did put a ſlight upon God's Wiſdom, when he conſulted with Satan for the mending of his Con<g ref="char:EOLhyphen"/>dition; yet there has been, for that ſlight, ſuch ſatisfaction made to the Juſtice of God in Man's Nature, by contriving that way for our Redemp<g ref="char:EOLhyphen"/>tion which was infinitely above the reach of Hu<g ref="char:EOLhyphen"/>man and Angelical Wiſdom, that when the Law cries out to Juſtice againſt ſinners, for putting of ſlights upon God's Wiſdom, when we go not to him for Direction in our important concerns, Juſtice returns this or the like anſwer, 'Tis true, O Law, what thou ſayſt, concerning the ſlights that have been put upon my Wiſdom by ſinners, yet I am reſolved to ſtand by this Be<g ref="char:EOLhyphen"/>liever notwithſtanding; foraſmuch as the eſſen<g ref="char:EOLhyphen"/>tial Wiſdom of God, and in whom is hid all the Treaſures of Wiſdom, has managed that Work of Man's Redemption at ſuch a rate as would have puzzel'd all the Angels in Heaven; for what Angel could ever have imagined that the ſame Perſon ſhould be the Satisfier, which was the Sa<g ref="char:EOLhyphen"/>tisfied? But thus it was with God over all in Man's Nature, for Chriſt as God was ſatisfied, but Chriſt as God, Man, or Mediator, was the Sa<g ref="char:EOLhyphen"/>tisfier.</p>
+            <p n="6">6. As the Wiſdom of God, ſo the Truth of God, has been more diſplay'd by God over all in Man's Nature, in the management of the Work of our Redemption, than for ought that is re<g ref="char:EOLhyphen"/>vealed in the Scripture, it would have been by <hi>Adam</hi> and all his Poſterity, had they continued in their Innocency; for ſuch was the Zeal of the Man Chriſt Jeſus, for the magnifying of his
+<pb n="15" facs="tcp:60151:10"/>Father's Truth, that notwithſtanding the unutter<g ref="char:EOLhyphen"/>able Torments that he was in upon the Croſs, he would not put a Period unto them by his Death, till all thoſe Propheſies were fulfilled, that were to be accompliſhed by his Death; and therefore it ſaid, That Jeſus knowing all things that the Scriptures might be fulfilled, ſaid,<note place="margin">John 19.28.</note> I thirſt; and therefore Chriſt is called the Faith<g ref="char:EOLhyphen"/>ful and True Witneſs. In a word, had <hi>Adam</hi> and all his Poſterity continued in their Innocen<g ref="char:EOLhyphen"/>cy, there had been many True Men, but there would not have been one Man Truth it ſelf; but the Man Chriſt Jeſus is Truth it ſelf, and the Fountain of all Truth; ſo that the Truth of God is greatly Glorified by God over all in Man's Na<g ref="char:EOLhyphen"/>ture.</p>
+            <p n="7">7. Laſt of all, the Juſtice of God ſhines forth greatly in the Man Chriſt Jeſus, by laying upon him unconceiveable Sufferings, for Sin imputed to him, though not committed by him: And cer<g ref="char:EOLhyphen"/>tainly, could the Juſtice of God have diſpenſed with Sin, it would, when it found it only by imputation upon the Darling of Heaven; but ſuch was the Severity of God's Juſtice, that if Chriſt would undertake to pay our Debts, God would not diſpenſe with the non-payment of them.</p>
+            <p n="8">8. If Chriſt be God over all, and that the Dignity of his Perſon has put ſuch efficacy into his Sufferings as has made them infinitely merito<g ref="char:EOLhyphen"/>torious, ſo as to make full Satisfaction to the Juſtice of God, for all the Wrong that has been done to all his Attributes, then this may inform
+<pb n="16" facs="tcp:60151:11"/>us,<note place="margin">Rom. 3.26. 1 Joh. 1.8.</note> that the Juſtice of God is ingaged to Juſti<g ref="char:EOLhyphen"/>fie a True Believer, foraſmuch as he has been fully ſatisfied by Chriſt, the Believers Surety. In a word, though the Damned in Hell will never have ſatisfied Juſtice, for which cauſe they muſt never come out of their Torment, yet Chriſt who is God over all, did ſatisfie the Juſtice of God to the uttermoſt Farthing.</p>
+            <p n="9">9. If Chriſt be God over all, then this may in<g ref="char:EOLhyphen"/>form us of the honourable and happy Condition of True Believers, who are myſtically one with Chriſt who is God over all, by his Eſſential Union with the Father: if it were ſuch an ho<g ref="char:EOLhyphen"/>nour to <hi>Heſter</hi> to be relatively one with an Earthly Prince, it muſt needs be a far greater honour to a True Believer to be myſtically one with God over all, who is King of Kings.</p>
+            <p n="10">10. If Chriſt be God over all, this Doctrin may inform us what encouragement we have in this Day of <hi>Jacob</hi>'s Troubles, when contempt covers the Faces of the Saints, to be importunate with God for the Deliverance of <hi>Sion,</hi> and for the Exaltation of the Intereſt of Chriſt; for if Chriſt be God over all, he will make all his Im<g ref="char:EOLhyphen"/>placable Enemies to feel the Force of his Irre<g ref="char:EOLhyphen"/>ſiſtible Power, in order to his own Glory and his Churches Good.</p>
+            <p n="11">11. If Chriſt be God over all, this may in<g ref="char:EOLhyphen"/>form us, That a True Believer has nothing to do with the Condemning Power of the Law; whenſoever the Law threatens a True Believer for its Breach and Violation, he may, with com<g ref="char:EOLhyphen"/>fort, return it this anſwer, Thou Holy, Juſt,
+<pb n="17" facs="tcp:60151:11"/>and Good Law, I know that I have deſerved the Wrath and Curſe of God for my Breach and Viola<g ref="char:EOLhyphen"/>tion of thee, but thou didſt lay Violent Hands upon my Nature in Perſonal Union with God over all, thy Maker, and thou wouldſt not leave him, till thou hadſt brought him to the curſed Tree, where his Soul was made an Offering for Sin, and a Curſe for me, that I might be Bleſſed through him; and now, Law, though thou haſt enough againſt my Perſon, I fear not all thy Threatning Power, foraſ<g ref="char:EOLhyphen"/>much as I am by Faith United unto him who is God over all, and who has anſwered all they Demands for me; and as my Breach of thee was imputed to him, ſo his Obedience of thee is imputed to me; and though I do reſolve in the ſtrength of God's Grace, to yield Obedience to God's Commands, yet I ſhall reſt only upon the Imputative Righteouſneſs of Chriſt for Life and Salvation.</p>
+            <p n="12">12. If Chriſt be God over all, this may inform us, what encouragement Miniſters have to Preach the the Goſpel of the Kingdom to the greateſt of Sinners; for tho' we cannot Convert Sinners by our Preach<g ref="char:EOLhyphen"/>ing, God over all can do what he pleaſes; and he that has commanded us to Preach the Goſpel,<note place="margin">John 9.6. Luke 13.13.</note> and whoſe Glory is concerned therein, is as able to open the Eyes of Men's Underſtandings, as he was to open the Eyes of thoſe that were born Blind; he that made crooked Bodies ſtraight, is able to make crooked Wills ſtraight, in the Day of his Power, <hi>Pſal.</hi> 110. He that raiſed Dead Bodies,<note place="margin">Eph. 2.1.</note> is able to quicken Dead Souls; and therefore let us be found in our Duty, and leave the iſſue of all to God.</p>
+            <pb n="18" facs="tcp:60151:12" rendition="simple:additions"/>
+            <p n="13">13. If Chriſt be God over all, then ſee what en<g ref="char:EOLhyphen"/>couragement you Hearers have to be found in the diſcharge of your Duty towards Miniſters; foraſ<g ref="char:EOLhyphen"/>much as God over all has ſaid,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ov. 3.9, 10.</note> That if you <hi>honour the Lord with your ſubſtance, and with the firſt-fruits of all your increaſe, that your Barns ſhall be filled with plenty, and your Preſſes ſhall burſt out with new wine.</hi> You Hearers, What do you ſay to this? Do you think that God over all is not able to make good his Promiſes? or do you think to honour God more with your Subſtance than to contribute to<g ref="char:EOLhyphen"/>wards the Neceſſities of ſuch Miniſters, who Study Night and Day to promote God's Glory, and the Good of your Souls? And beſide, you know not how little a time you have to ſhew your Love to the Miniſters of <hi>Chriſt;</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ch. 1.8. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ek. 37.</note> for though now all the Mini<g ref="char:EOLhyphen"/>ſters of <hi>Chriſt</hi> are as Myrtles in the Bottom, and as dry Bones in the Vallies; God can put them under better Circumſtances, that they may have no need of your Bounty: And therefore remember what the Apoſtle ſaid to ſuch that had contributed towards his Neceſ<g ref="char:EOLhyphen"/>ſities, That it was an <hi>odour of a ſweet ſmell, a ſacri<g ref="char:EOLhyphen"/>fice well-pleaſing to God.</hi> And for their incourage<g ref="char:EOLhyphen"/>ment to perſevere in that Duty, he adds, <hi>But my God will ſupply all your need according to his riches in glory, by Chriſt Jeſus,</hi> Phil. 4.18, 19. And be<g ref="char:EOLhyphen"/>ſide conſider, that when you come to lie upon a Death-Bed, how will your Conſciences torment you, when you ſhall think what opportunities you have had to incourage a faithful Miniſter of <hi>Chriſt,</hi> and either you did nothing at all of your Duty, or that which was next to nothing? And you are to re<g ref="char:EOLhyphen"/>member, that God expects your Contributions
+<pb n="19" facs="tcp:60151:12"/>ſhould be proportionable to what he has lent you in the World; they that have but little, God will accept of a little from them, but thoſe to whom God has given more, he does expect more from them.</p>
+            <p n="14">14. If <hi>Chriſt</hi> be God over all, this may inform us what incouragement Godly Parents have to ſend up ſtrong cries to God for Rebellious Children, ſeeing that when God over all aſcended up on high, and led Captivity Captive, he received Gifts for Men, even for the Rebellious alſo, that the Lord God may dwell among them; and therefore if any of you that are here preſent have Rebellious Children for whom you have poured out your Souls before the Lord, and as yet you can perceive no change in your Children, in anſwer of your Prayers, be not diſcou<g ref="char:EOLhyphen"/>raged, God can anſwer your Prayers in the Converſi<g ref="char:EOLhyphen"/>on of your Children, when you are Dead and Rotten. And remember God's time is the beſt time; he that Governs the World by his Wiſdom, and has founded the Earth by his Underſtanding, and makes every thing beautiful in its Seaſon, knows the propereſt time for the anſwering of the Prayers of his People; but ſuppoſe your Prayers ſhould not be anſwered in the Converſion of your Children, your deſires there<g ref="char:EOLhyphen"/>of will find acceptance with God, and your Prayers ſhall return to your own Boſom.</p>
+            <p n="15">15. If <hi>Chriſt</hi> be God over all, this may inform us of the excellency of Faith, whoſe Work and Office it is to Unite the Soul to <hi>Chriſt;</hi> for which cauſe we are ſaid to be Juſtified by Faith, as it Unites us to a Juſti<g ref="char:EOLhyphen"/>fying <hi>Chriſt.</hi>
+            </p>
+            <p n="16">16. If <hi>Chriſt</hi> be God over all, it may inform us of the evil of Sin, which could be expiated by nothing
+<pb facs="tcp:60151:13"/>ſhort of the Death of <hi>Chriſt;</hi> the malignity of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> does more appear in thoſe Sufferings it brought where it was only by Imputation, than in all the For<g ref="char:EOLhyphen"/>ments of the Damned in whom it was by Implanta<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="17">17. Laſtly, ſee the Folly of Wicked Men, that will for the Profits and Pleaſures of Sin, which are but for a ſeaſon, venture the loſs of the Bleſſedneſs that is to be enjoyed in the enjoyment of <hi>Chriſt,</hi> who will make True Believers Bleſſed, ſo long as himſelf will be Bleſſed, <hi>who is over all, God bleſſed for ever Amen.</hi>
+            </p>
+            <p>To conclude: Let us make it our great Work and Buſineſs, to clear up our Intereſt in him, <hi>who is over all, God bleſſed for ever;</hi> and that by making of it ſure to our Souls, that he has Bleſſed us: in turning of us from our Iniquities, and in making of us to ſee our want of him, and the worth of him, ſo for as with the Spouſe, to ſay with our whole Souls, That he is White and Ruddy, the Chiefeſt among ten thouſand, and that he is altogether Lovely, <hi>Songs</hi> 5.10, 17. And that we may have the ſame Appre<g ref="char:EOLhyphen"/>henſions of him as <hi>Moſes</hi> had when he eſteemed Reproaches for him to be greater Riches than all the Treaſures of <hi>Egypt;</hi> and in ſo doing, though not for ſo doing, we need not queſtion, but that Chriſt <hi>who is God, Bleſſed for ever,</hi> will make us for ever Bleſſed with him through his Merits without us, as certainly as he has Bleſſed us with Preparation for that Glory by his Spirit within us.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:60151:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
